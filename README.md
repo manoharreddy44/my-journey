@@ -18,7 +18,7 @@
 - solved 2 medium LeetCode
 
 
-## June 30 - Monday 2026
+## June 30 - Tuesday 2026
 ### Theme: Core CS
 - OS: Processes vs Threads, Deadlock, Virtual Memory, Paging
 - DBMS: ACID properties, Indexing, Normalization, Transactions
@@ -26,3 +26,17 @@
 - Method: Read → close everything → write what you remember from scratch
 - Mock Question 2: "Explain how JWT works and how you used it in SkipYears"
 - Then 1 surprise Core CS question
+
+### Topday's Evaluation
+- solved daily preblem
+- solved 2 medium LeetCode
+
+
+## July 1 - Wednesday 2026
+### Theme: Security + OWASP
+- 3 leetcode problems
+- Open the OWASP guide we made
+- Read all 10 risks once
+- Then close it and write from memory — which ones you remember, which ones you forgot
+- Revise only the forgotten ones
+- Focus especially on: Broken Access Control, Injection, Auth Failures, SSRF
