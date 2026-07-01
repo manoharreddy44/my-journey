@@ -28,7 +28,7 @@
 - Then 1 surprise Core CS question
 
 ### Topday's Evaluation
-- solved daily preblem
+- solved daily problem
 - solved 2 medium LeetCode
 
 
@@ -40,3 +40,14 @@
 - Then close it and write from memory — which ones you remember, which ones you forgot
 - Revise only the forgotten ones
 - Focus especially on: Broken Access Control, Injection, Auth Failures, SSRF
+
+### Topday's Evaluation
+- solved daily problem
+- solved 2 medium LeetCode
+
+## July 2 - Thursday 2026
+### Theme: research on Security
+- 3 leetcode problems
+- go through the OWASP top 10 risks
+- what exact solutions does Palo Alto Networks provide
+
