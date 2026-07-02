@@ -51,3 +51,18 @@
 - go through the OWASP top 10 risks
 - what exact solutions does Palo Alto Networks provide
 
+### Topday's Evaluation
+- solved daily problem
+- solved 2 medium LeetCode
+
+
+## July 3 - Friday 2026
+### Theme: To Complete all the Tasks
+- 3 leetcode problems
+- what exact solutions does Palo Alto Networks provide
+- revise one HLD published in Medium
+
+
+
+
+
