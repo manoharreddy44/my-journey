@@ -62,6 +62,17 @@
 - what exact solutions does Palo Alto Networks provide
 - revise one HLD published in Medium
 
+### Topday's Evaluation
+- solved daily problem
+- solved 2 medium LeetCode
+
+## July 4 - Saturday 2026
+### Theme: SkipYears
+- 3 leetcode problems
+- what exact solutions does Palo Alto Networks provide
+- revise one HLD published in Medium
+- SkipYears
+
 
 
 
